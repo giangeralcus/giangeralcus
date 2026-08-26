@@ -13,6 +13,4 @@ I work on logistics operations, internal systems, and practical AI at [PT Gatewa
 - [incoterms.id](https://incoterms.id) - an interactive Incoterms 2020 reference
 - [GGCD Tech](https://ggcd.tech) - notes and experiments on systems, operations, and AI
 
-Most production work is private because it involves customer and operational data.
-
 [Website](https://giangeralcus.com) - [LinkedIn](https://www.linkedin.com/in/giangeralcus/)
