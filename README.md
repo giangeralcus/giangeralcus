@@ -1,5 +1,15 @@
-# Gian Geralcus
+# Hi, I'm Gian 👋
 
-I learn with&about AI & how to communicate with .
+I learn about AI and how to communicate with it — building tools, automations, and experiments along the way.
 
-[Website](https://giangeralcus.com) - [LinkedIn](https://www.linkedin.com/in/giangeralcus/)
+## 🔭 What I do
+- Explore AI-assisted development & agent workflows
+- Build small web apps and games for fun
+- Work with freight-forwarding & logistics tech
+
+## 🛠️ Tech & tools
+`TypeScript` `Python` `Node.js` `Git` `AI Agents`
+
+## 🌐 Find me
+[![Website](https://img.shields.io/badge/Website-giangeralcus.com-blue?logo=googlechrome&logoColor=white)](https://giangeralcus.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-giangeralcus-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giangeralcus/)
