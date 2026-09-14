@@ -1,6 +1,6 @@
 # Hi, I'm Gian 👋
 
-I learn about AI and how to communicate with it — building tools, automations, and experiments along the way.
+I learn about AI & how to communicate with it.
 
 ## 🔭 What I do
 - Explore AI-assisted development & agent workflows
