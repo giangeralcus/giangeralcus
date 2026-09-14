@@ -1,11 +1,6 @@
 # Hi, I'm Gian 👋
 
-I learn about AI & how to communicate with it.
-
-## 🔭 What I do
-- Explore AI-assisted development & agent workflows
-- Build small web apps and games for fun
-- Work with freight-forwarding & logistics tech
+I learn with & about AI & how to communicate with it.
 
 ## 🛠️ Tech & tools
 `TypeScript` `Python` `Node.js` `Git` `AI Agents`
